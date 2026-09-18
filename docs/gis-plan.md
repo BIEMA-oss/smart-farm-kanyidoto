@@ -34,3 +34,22 @@ The following information should be collected later:
 - Land slope
 - Soil information
 - Water availability
+
+## Terrain and Drainage
+
+The farm slopes downhill from the house and compound area toward the sugarcane section.
+
+The nearby river flows along the lower side of the sugarcane plantation.
+
+This terrain relationship is important for future planning because it may affect:
+
+- Surface water runoff
+- Soil erosion risk
+- Drainage
+- Irrigation design
+- Placement of water storage
+- Crop zoning
+- Access paths
+- Soil conservation measures
+
+The exact slope gradient and river position still need to be measured during field mapping.
