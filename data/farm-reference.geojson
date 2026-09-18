@@ -27,3 +27,15 @@
     }
   ]
 }
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Access Road",
+    "status": "Existing",
+    "notes": "Main access route to the farm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [34.3629857, -0.7485923]
+  }
+}
