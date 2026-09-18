@@ -1,0 +1,8 @@
+Feature,Type,Latitude,Longitude,Status,Notes
+Farm Reference Point,Location,-0.7482554,34.3630179,Known,General farm reference point
+Three Bedroom House,Structure,,,Existing,House requires finishing
+Mango Tree,Tree,,,Existing,Nearby mango tree
+Other Trees,Tree,,,Existing,Several trees on the farm
+River,Water Source,,,Nearby,Exact location to be mapped
+Farm Boundary,Boundary,,,Unknown,Exact boundary not yet mapped
+Fence,Infrastructure,,,Not Existing,Future perimeter fence planned
