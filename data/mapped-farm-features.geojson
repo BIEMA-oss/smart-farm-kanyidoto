@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farm Reference Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.3630179, -0.7482554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Bedroom House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.3629351, -0.7480046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Access Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.3629857, -0.7485923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mapped Feature Connection"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [34.3629351, -0.7480046],
+          [34.3630179, -0.7482554],
+          [34.3629857, -0.7485923]
+        ]
+      }
+    }
+  ]
+}
