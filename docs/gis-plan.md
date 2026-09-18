@@ -53,3 +53,13 @@ This terrain relationship is important for future planning because it may affect
 - Soil conservation measures
 
 The exact slope gradient and river position still need to be measured during field mapping.
+
+## River Mapping Status
+
+The river is known to run along the lower side of the sugarcane plantation, but its exact GPS position is not yet visible or confirmed on the current map.
+
+The river location will be mapped later using:
+- GPS while physically at the farm
+- Satellite imagery
+- Google Earth
+- Field survey
