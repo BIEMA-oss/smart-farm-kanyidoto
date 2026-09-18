@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farm Reference Point",
+        "location": "Kanyidoto East, Homa Bay County, Kenya",
+        "farm_size_acres": 3.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.3630179, -0.7482554]
+      }
+    }
+  ]
+}
