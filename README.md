@@ -26,3 +26,9 @@ To explore how GIS, agricultural data, and simple smart-farming methods can impr
 ## Project Status
 
 Planning stage
+
+## GIS Map
+
+The map below shows the current farm reference point in Kanyidoto East, Homa Bay County, Kenya.
+
+![Farm Reference Map](images/farm-reference-map.jpg)
