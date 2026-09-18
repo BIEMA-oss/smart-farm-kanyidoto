@@ -12,6 +12,18 @@
         "type": "Point",
         "coordinates": [34.3630179, -0.7482554]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Bedroom House",
+        "status": "Existing",
+        "notes": "House requires finishing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.3629351, -0.7480046]
+      }
     }
   ]
 }
